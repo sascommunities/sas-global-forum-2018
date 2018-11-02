@@ -22,11 +22,11 @@ project.  That means that you will:
 2. Create a new subfolder for your code and other assets.  Please name the folder
    according to the same naming conventions that you used when you submitted your final paper.  That is:
 
-   '''sessionNumber-YEAR-surname
+        sessionNumber-YEAR-surname
 
    For example:
 
-   '''2822-2019-Smith
+        2822-2019-Smith
 
 3. Use a pull request to submit your new content.  One of the project owners will
    review the change and merge it with the rest of the project.  Reviewers will check only that you have followed the recommended structure.  For these contributions, the reviewer is not checking for quality or completeness of the content.  As the paper author, we assume that you know what your readers need.
@@ -42,13 +42,13 @@ DO contribute these types of files to support your presentation
   link to the PDF for your paper in the SAS Global Forum proceedings.  Optionally
   include contact information so that interested readers know how to ask you questions
   or send you lavish praise for your work.
-* Source code for SAS programs (.sas)
-* Jupyter Notebook files (*.ipnyb), which you can create using SAS University Edition
+* Source code for SAS programs (\*.sas)
+* Jupyter Notebook files (\*.ipnyb), which you can create using SAS University Edition
   or in any SAS environment where you've configured Jupyter Notebook or Jupyter Lab.
 * Sample data files THAT YOU HAVE PERMISSION TO DISTRIBUTE.  You can include as CSV
-  files, Excel workbooks, or SAS data sets (*.sas7bdat).
-* SAS project files, such as from SAS Enterprise Guide (*.egp) or flows from SAS
-  Enterprise Miner (*.xml)
+  files, Excel workbooks, or SAS data sets (\*.sas7bdat).
+* SAS project files, such as from SAS Enterprise Guide (\*.egp) or flows from SAS
+  Enterprise Miner (\*.xml)
 * Presentation materials, such as a PDF version of your presentation slides.
 
 ## What you should NOT include
